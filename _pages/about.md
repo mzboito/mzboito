@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Marcely Zanon Boito, a Research Scientist at NAVER LABS Europe. I work on **self-supervised learning**, **low-resource**, **multilingual**, and **multimodal NLP**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my PhD in Computer Science from the University Grenoble Alpes in 2021, with a thesis titled *"Models and Resources for Attention-based Unsupervised Word Segmentation: An Application to Computational Language Documentation."* Before NAVER LABS, I was a postdoctoral fellow at LIA, University of Avignon.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also hold two bachelor degrees—in **Computer Science (UFRGS, Brazil)** and **Information Systems Engineering (ENSIMAG, France)**, and a **Master's in Artificial Intelligence and the Web (MoSIG, UGA, France)**.
