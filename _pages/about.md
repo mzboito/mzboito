@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Marcely Zanon Boito, a Research Scientist at NAVER LABS Europe. I work on **self-supervised learning**, **low-resource**, **multilingual**, and **multimodal NLP**.
+Hi! I'm <span style="color:#008080; font-weight:bold; font-style:italic;">Marcely Zanon Boito</span>, a Research Scientist at NAVER LABS Europe. I work on **self-supervised learning**, **low-resource**, **multilingual**, and **multimodal NLP**.
 
 I received my PhD in Computer Science from the University Grenoble Alpes in 2021, with a thesis titled *"Models and Resources for Attention-based Unsupervised Word Segmentation: An Application to Computational Language Documentation."* Before NAVER LABS, I was a postdoctoral fellow at LIA, University of Avignon.
 
